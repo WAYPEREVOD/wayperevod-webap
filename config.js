@@ -1,0 +1,1 @@
+const CONFIG = { TRON_API: 'https://api.trongrid.io', COMMISSION: 0.005 };
