@@ -1,1 +1,32 @@
-body { font-family: Inter, sans-serif; background: #f9f9f9; color: #222; }
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.container {
+  display: inline-block;
+  padding: 30px;
+  border: 1px solid #ddd;
+  background-color: white;
+  border-radius: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 15px;
+  font-size: 16px;
+  background-color: #00b894;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.note {
+  margin-top: 20px;
+  color: #555;
+}
